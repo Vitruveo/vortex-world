@@ -1,4 +1,3 @@
-## Vitruveo USDC Bridge
+## Vitruveo Vortex Worls
 
-Bridge from USDC (Polygon) to USDC.pol (Vitruveo)
 
